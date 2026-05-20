@@ -1,0 +1,9 @@
+build/
+cmake-build-*/
+.idea/
+.vscode/
+.DS_Store
+Main
+Tests
+*.o
+*.dSYM/
